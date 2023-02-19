@@ -1,0 +1,19 @@
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.exe.config
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.exe
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.pdb
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.csprojResolveAssemblyReference.cache
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.Form1.resources
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.Properties.Resources.resources
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.csproj.GenerateResource.Cache
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.exe
+C:\Users\casper\Desktop\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.pdb
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.exe.config
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.exe
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\bin\Debug\parantez_derleyicisi.pdb
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.csproj.AssemblyReference.cache
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.Form1.resources
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.Properties.Resources.resources
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.csproj.GenerateResource.cache
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.csproj.CoreCompileInputs.cache
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.exe
+E:\veri yapıları ders notları\veriyapıları\parantez_derleyicisi\parantez_derleyicisi\obj\Debug\parantez_derleyicisi.pdb
